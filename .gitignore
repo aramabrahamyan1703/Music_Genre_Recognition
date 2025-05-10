@@ -176,3 +176,5 @@ cython_debug/
 gtzan-dataset-music-genre-classification.zip
 GTZAN/
 .DS_Store
+Presentation
+Presentation/presentation.tex
